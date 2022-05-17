@@ -19,7 +19,7 @@ Voor het vak "Project - Front-end" laat ik studenten in ongeveer 6-8 weken kenni
 ![Het gerealiseerde eindproduct op mobile.](https://color.color.mediacollege.work/img/webp/demo--mobile.webp "Colorful cards")
 
 ## Live demo
-https://color.color.mediacollege.work 
+https://color.mediacollege.work 
 
 ## Resources
 1. Validator voor het checken van mijn code en het opsporen van fouten => https://validator.w3.org/
